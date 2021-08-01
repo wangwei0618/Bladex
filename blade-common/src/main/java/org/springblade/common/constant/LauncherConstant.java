@@ -40,13 +40,13 @@ public interface LauncherConstant {
 	/**
 	 * nacos dev 地址
 	 */
-	String NACOS_DEV_ADDR = "192.168.0.18:8848";
+	String NACOS_DEV_ADDR = "49.234.34.214:8848";
 //	String NACOS_DEV_ADDR = "140.246.42.207:8848";
 
 	/**
 	 * nacos prod 地址
 	 */
-	String NACOS_PROD_ADDR = "172.30.0.48:8848";
+	String NACOS_PROD_ADDR = "49.234.34.214:8848";
 
 	/**
 	 * nacos test 地址
